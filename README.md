@@ -10,3 +10,5 @@ Here I have created a Netflix webpage and sign in page using HTML and CSSThis is
 ✔Responsive transitions for smooth expansion/collapse of FAQ answers.
 ✔Sign-in button redirects to a Sign-in page. Which also have the same features. 
 
+https://github.com/Anupam2023a/Netflix-Clone-Webpage-and-Sign-In-page-/assets/135353051/dfe9ea47-7774-493f-96ec-ed3a262db938
+
